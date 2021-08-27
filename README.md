@@ -1,2 +1,2 @@
-# LetsPlay [](https://lashareichert.github.io/LetsPlay/)
+# [LetsPlay](https://lashareichert.github.io/LetsPlay/)
 
